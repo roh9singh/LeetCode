@@ -1,5 +1,5 @@
 '''
-																			Longest Absolute File Path
+						Longest Absolute File Path
 
 
 Suppose we abstract our file system by a string in the following manner:
