@@ -68,23 +68,6 @@ class Solution(object):
         for i in range(len(x)):
             x[i]=x[i].replace("\t","")
 
-
-        '''i=-1
-        j=-1
-
-        for l in range(len(levels)):
-            if levels[l]>=j and files[l]==1:
-                if i!=-1 and len(x[l])<len(x[i]):
-                    continue 
-                else:
-                    i=l
-                    j=levels[i]'''
-
-        #i=levels.index(max(levels))
-        #j=levels[i]
-
-        #print(i,j)
-
         output=""
 
         
